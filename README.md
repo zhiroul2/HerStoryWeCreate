@@ -25,10 +25,10 @@ Treasurer:
 qingwen6@illinois.edu
 
 Membership Director:
-Cureently open position
+Currently open position
 
 Secretary:
-Cureently open position
+Currently open position
 
 Event request:
 
