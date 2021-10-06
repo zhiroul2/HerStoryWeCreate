@@ -7,7 +7,7 @@ Officer's position will go through a basic application process.
 
 Github page:
 
-This is our open-source knowledge base,which allows and encourages all of our members to contirbute.
+This is our open-source knowledge base,which allows and encourages all of our members to contribute.
 There will be a folder which contains specific content about the knowledge base we want to create.
 You are encouraged to give out comments,reviews and contribute to our repository by following correct guidelines.
 
@@ -29,5 +29,7 @@ Cureently open position
 
 Secretary:
 Cureently open position
+
+Event request:
 
 
