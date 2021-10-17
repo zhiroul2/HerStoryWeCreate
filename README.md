@@ -8,6 +8,9 @@ This is our open-source knowledge base, which allows and encourages all of our m
 It might take some time to accept the push request.
 Contact information and officers: If you have any questions and you would like an officer to answer them or solve them for you, or you want to join the team of officers and work together to make greater contributions, you can directly contact officers through email. The response time will be no longer than 2-3 business days.
 
+Important Link:https://app.slack.com/client/T02GGH715RQ/C02H66QELAC
+
+We will be using slack for most of our purpose.
 
 President: zhiroul2@illinois.edu
 
